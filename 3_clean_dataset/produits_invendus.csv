@@ -1,0 +1,23 @@
+p_id,p_cat,p_price,p_price_range
+0_1016,0,35.06,expensive 20-79
+0_1780,0,1.67,very_cheap 3-
+0_1062,0,20.08,expensive 20-79
+0_1119,0,2.99,very_cheap 3-
+0_1014,0,1.15,very_cheap 3-
+1_0,1,31.82,expensive 20-79
+0_1318,0,20.92,expensive 20-79
+0_1800,0,22.05,expensive 20-79
+0_1645,0,2.99,very_cheap 3-
+0_322,0,2.99,very_cheap 3-
+0_1620,0,0.8,very_cheap 3-
+0_1025,0,24.99,expensive 20-79
+2_87,2,220.99,very_expansive 80+
+1_394,1,39.73,expensive 20-79
+2_72,2,141.32,very_expansive 80+
+0_310,0,1.94,very_cheap 3-
+0_1624,0,24.5,expensive 20-79
+0_525,0,2.99,very_cheap 3-
+2_86,2,132.36,very_expansive 80+
+0_299,0,22.99,expensive 20-79
+0_510,0,23.66,expensive 20-79
+0_2308,0,20.28,expensive 20-79
