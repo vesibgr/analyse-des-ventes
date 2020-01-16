@@ -23,8 +23,6 @@ Le dossier contient :
 
 - un fichier `functions.py` qui contient des fonctions utilisées par les notebooks.
 
-Ainsi qu'un fichier `présentation.pdf`, utilisé comme support lors de la soutenance.
-
 -----------------------------------------------------------------------------------
 
 Pour lancer les notebooks :
