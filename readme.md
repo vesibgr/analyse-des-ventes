@@ -6,7 +6,11 @@ Ce projet a été réalisé dans le cadre de la formation [Data Analyst](https:/
 
 <br />
 
-### :arrow_forward: [Voir ma présentation des résultats](présentation.pdf)
+### :notebook: [Notebook : Nettoyage des données](/2_preparation_de_donnees.ipynb)
+
+### :notebook: [Notebook : Analyse des données](/4_analyse_de_donnees.ipynb)
+
+### :arrow_forward: [Slides de présentation](présentation.pdf)
 
 ---------------------------------------------------------------------------------
 
