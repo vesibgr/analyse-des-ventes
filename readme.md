@@ -1,5 +1,7 @@
 *Ce projet a été réalisé dans le cadre de la formation [Data Analyst](https://openclassrooms.com/fr/paths/65-data-analyst), sur la plateforme OpenClassrooms.*
 
+## Analyse des ventes
+
 ### Introduction
 
 Dans le cadre de ce projet, j'ai réalisé une analyse des données d'une plateforme de e-commerce fictive afin de déterminer de nouvelles stratégies marketing. Pour ce faire, j'ai d'abord restructuré et nettoyé les données issues du SI et les ai analysées selon trois axes.
